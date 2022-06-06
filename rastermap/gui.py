@@ -199,7 +199,7 @@ class MainW(QtGui.QMainWindow):
         self.win.ci.layout.setRowStretchFactor(1, 2)
         self.win.ci.layout.setRowStretchFactor(2, 2)
         #self.win.ci.layout.setColumnStretchFactor(0, .5)
-        self.win.ci.layout.setColumnStretchFactor(1, .1)
+        self.win.ci.layout.setColumnStretchFactor(1, 1)
         self.win.ci.layout.setColumnStretchFactor(3, 2)
 
         # self.key_on(self.win.scene().keyPressEvent)
