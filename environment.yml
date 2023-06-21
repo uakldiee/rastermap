@@ -1,6 +1,6 @@
 name: rastermap
 dependencies:
-  - python==3.7
+  - python==3..8
   - pip
   - numpy>=1.16
   - numba>=0.43.1
